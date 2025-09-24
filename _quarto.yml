@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs # diretório que conterá a saída com a página web
+
+format:
+  html:
+    fontsize: 18px
+    #page-layout: full # the page content takes up more of the page width
+    #theme: [solar, styles.scss]
+    theme: styles.scss
+
+website: 
+  title: "Sadraque Lucena"
+  page-footer: |
+    <p style="text-align: center;">
+      Feito com 
+      <a href="https://quarto.org/" target="_blank" title="Quarto - an open-source scientific and technical publishing system">
+        <img src="/imagens/quarto-logo.png" alt="Logo do Quarto" style="height:19px; vertical-align:middle;">
+      </a>
+    </p>
+  
+  navbar:
+    pinned: true
+    search: false
+    right:
+      - href: sobremim.qmd
+        text: "Sobre mim"
+      - href: ensino/index.qmd
+        text: "Ensino"
+      - href: publicacoes.qmd
+        text: "Publicações"

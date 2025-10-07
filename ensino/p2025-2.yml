@@ -5,3 +5,9 @@
   image: inferencia1-logo-sem-borda.png
   semester: 2025-2
 
+- title: "ESTAT0109 -- Mineração de Dados em Estatística"
+  description: "Descubra padrões ocultos e extraia conhecimento valioso diretamente de seus dados."
+  university: "Universidade Federal de Sergipe"
+  path: https://sadraquelucena.github.io/mineracao/
+  image: logo_mineracao.png
+  semester: 2025-2

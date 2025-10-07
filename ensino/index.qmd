@@ -15,6 +15,11 @@ page-layout: full
 ---
 
 <style>
+/* Remove a linha entre os itens da listagem padrão */
+.quarto-listing-default .quarto-listing-item {
+  border-top: none !important;
+}
+
 /* Seleciona o contêiner da imagem na listagem */
 .quarto-grid-image-container {
   background-size: contain; /* Faz a imagem caber inteira, sem cortar */

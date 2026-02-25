@@ -1,3 +1,10 @@
+- title: "ESTAT0072 -- Probabilidade I"
+  description: "Desenvolva uma base sólida nos conceitos fundamentais de Probabilidade para modelagem de fenômenos aleatórios."
+  university: "Universidade Federal de Sergipe"
+  path: https://sadraquelucena.github.io/Prob1/
+  image: logo_prob1.png
+  semester: 2026-1
+
 - title: "ESTAT0078 -- Inferência I"
   description: "Domine as técnicas de estimação e intervalos de confiança para quantificar a incerteza estatística."
   university: "Universidade Federal de Sergipe"

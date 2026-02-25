@@ -3,7 +3,7 @@ title: "Ensino"
 subtitle: "Disciplinas ministradas na Universidade Federal de Sergipe"
 listing:
   - id: p2025-2
-    contents: p2025-2.yml
+    contents: disciplinas.yml
     type: default
     sort-ui: false
     filter-ui: false
@@ -15,11 +15,6 @@ page-layout: full
 ---
 
 <style>
-/* Remove a linha entre os itens da listagem padrão */
-.quarto-listing-default .quarto-listing-item {
-  border-top: none !important;
-}
-
 /* Seleciona o contêiner da imagem na listagem */
 .quarto-grid-image-container {
   background-size: contain; /* Faz a imagem caber inteira, sem cortar */
@@ -28,7 +23,7 @@ page-layout: full
 }
 </style>
 
-## 2025–2
+## 
 
 :::{#p2025-2}
 :::
